@@ -1,0 +1,1 @@
+Most of my work for hw1 is on the [home page](index.md).
