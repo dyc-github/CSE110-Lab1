@@ -18,15 +18,15 @@ Outside of Comp Sci, I enjoy playing board games, climbing, and watching competi
 3. PRX
 
 ## My Education
-- **University of California San Diego** | 2023 – 2025
+- **University of California San Diego** : 2023 – 2025
   - *B.S. Computer Science and Engineering*
-- **University of California Merced** | 2021 – 2023
+- **University of California Merced** : 2021 – 2023
   - *B.S. Computer Science*
 
 ## My Work
-- *(Incoming)* **Microsoft** | 2024
+- *(Incoming)* **Microsoft** : 2024
   - *Software Engineering Intern*
-- **Evernote** | 2021
+- **Evernote** : 2021
   - *Software Engineering Intern*
 
 ## TODO for the page
